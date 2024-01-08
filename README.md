@@ -1,5 +1,5 @@
 # Sales-dashboard
-carried out in depth sales data analysis , extracting key insights on trends, top-selling products, and revenue metrics using Python.
+carried out in depth sales data analysis , extracting key insights on trends, top-selling products, and revenue metrics using PowerBI.
 
 Applied data manipulation techniques to a large dataset, showcasing proficiency in deriving actionable business recommendations. 
 
